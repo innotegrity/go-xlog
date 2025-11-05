@@ -40,7 +40,7 @@ Please review the [module documentation](https://pkg.go.dev/go.innotegrity.dev/x
 
 ## ✅ Requirements
 
-This module is supported for Go v1.25 and later.
+This module is supported for Go v1.25.0 and later.
 
 ## 📃 License
 
