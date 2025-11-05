@@ -36,7 +36,7 @@
 
 `go-xlog` is a logging library which extends the default capabilities of the built-in `log/slog` package.  This library includes the ability to automatically create a logger based on a configuration read from a file.  It also includes new handlers that extend the default plaintext and JSON handlers.
 
-Please review the [module documentation](https://pkg.go.dev/go.innotegrity.dev/xlog) for details on how to properly use the functions and classes contained in this module.
+Please review the [module documentation](https://pkg.go.dev/go.innotegrity.dev/xlog) for details on how to properly use the functions and types contained in this module.
 
 ## ✅ Requirements
 
